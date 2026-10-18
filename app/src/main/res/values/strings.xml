@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_desc">开启后会在屏幕右侧显示一个悬浮"截"按钮，点击即可截取当前屏幕并保存到相册。</string>
+</resources>

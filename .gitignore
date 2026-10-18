@@ -1,0 +1,16 @@
+# Build outputs
+build/
+.gradle/
+
+# Local SDK path
+local.properties
+
+# Signing material — 千万不要提交
+keystore.properties
+*.jks
+*.keystore
+
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
